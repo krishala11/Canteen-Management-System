@@ -1,0 +1,73 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+*.pdb
+a.out
+core
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code (keep tasks.json)
+.vscode/*
+!.vscode/tasks.json
+
+# App runtime data (generated at runtime)
+users.bin
+outsiders.bin
+UserBalance.bin
+pincode.bin
+items.bin
+transaction.bin
+temp.bin
+
+# Backups / temp
+*.tmp
+*.bak
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+*.pdb
+a.out
+core
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code (keep tasks.json)
+.vscode/*
+!.vscode/tasks.json
+
+# App runtime data (generated at runtime)
+users.bin
+outsiders.bin
+UserBalance.bin
+pincode.bin
+items.bin
+transaction.bin
+temp.bin
+
+# Backups / temp
+*.tmp
+*.bak
